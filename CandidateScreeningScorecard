@@ -1,0 +1,49 @@
+Candidate Screening Scorecard
+
+Candidate Name		Date	
+
+Reviewer		Role	React Frontend Engineer
+
+
+Scoring Guide
+
+5 — Excellent	Exceeds expectations; insightful, well-structured, production-ready approach
+
+4 — Good	Meets all requirements with minor improvements possible
+
+3 — Adequate	Mostly correct; some gaps or inconsistencies
+
+2 — Needs Work	Partial implementation; key requirements missing or incorrect
+
+1 — Poor	Does not meet requirements; significant fundamental gaps
+
+Technical Criteria
+
+Criterion	Weight	Score (circle)	Weighted	Notes
+
+Points calculation accuracy	25%	1  2  3  4  5		Correct handling of all three tiers; edge cases ($50, $100 boundaries)
+
+React hooks (useEffect / useState)	20%	1  2  3  4  5		Proper use for async fetch and state management
+
+Async simulation & loading state	15%	1  2  3  4  5		Promise-based fetch; loading spinner shown during delay
+
+Data aggregation logic	15%	1  2  3  4  5		Per-customer, per-month, and total summaries are correct
+
+Component structure	10%	1  2  3  4  5		Sensible decomposition; reusable components
+
+Code quality & readability	10%	1  2  3  4  5		Naming, formatting, no Redux/TypeScript
+
+UI / UX presentation	5%	1  2  3  4  5		Tables render correctly; tabs functional; responsive
+
+
+Soft Skills & Communication
+
+
+Overall Recommendation
+
+
+Summary Notes
+
+
+
+
